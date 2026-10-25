@@ -1,0 +1,30 @@
+# Android / Gradle
+.gradle/
+build/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# App secrets & local files (never commit signing keys or machine paths)
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+release/
+
+# Editor/OS junk
+.idea/
+.vscode/
+*.iml
+*.log
+hs_err_pid*
+*.hprof
+.DS_Store
+Thumbs.db
+desktop.ini
