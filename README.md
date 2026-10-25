@@ -10,43 +10,20 @@ The app supports **English, German, and Persian**, including Persian right-to-le
 
 ## Screenshots
 
-### Home
-![Home](docs/screenshots/home-light.png)
-
----
-
-### Accounts
-![Accounts](docs/screenshots/accounts-dark.png)
-
----
-
-### Budgets
-![Budgets](docs/screenshots/budgets-light.png)
-
----
-
-### Categories
-![Categories](docs/screenshots/categories-light.png)
-
----
-
-### Planned Payments
-![Planned Payments](docs/screenshots/planned-dark.png)
-
----
-
-### Savings
-![Savings](docs/screenshots/savings-dark.png)
-
----
-
-### Statistics
-![Statistics](docs/screenshots/statistics-light.png)
-
----
-
-### More Features
-![More Features](docs/screenshots/more-features.png)
+<table>
+  <tr>
+    <td><img src="docs/screenshots/home-light.png" alt="Home"></td>
+    <td><img src="docs/screenshots/planned-dark.png" alt="Planned Payments"></td>
+    <td><img src="docs/screenshots/budgets-light.png" alt="Budgets"></td>
+    <td><img src="docs/screenshots/statistics-light.png" alt="Statistics"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/accounts-dark.png" alt="Accounts"></td>
+    <td><img src="docs/screenshots/categories-light.png" alt="Categories"></td>
+    <td><img src="docs/screenshots/savings-dark.png" alt="Savings"></td>
+    <td><img src="docs/screenshots/more-features.png" alt="More Features"></td>
+  </tr>
+</table>
 
 ---
 
