@@ -6,8 +6,8 @@ import android.view.ViewGroup;
 public final class Constants {
     private Constants() { }
 
-    public static final String GITHUB_URL = "https://github.com/YOUR_USERNAME";
-    public static final String LINKEDIN_URL = "https://www.linkedin.com/in/YOUR_USERNAME";
+    public static final String GITHUB_URL = "https://github.com/MahdiKoushkiOfficial";
+    public static final String LINKEDIN_URL = "https://www.linkedin.com/in/mahdi-koushki-1697243b2/";
     public static final String APP_VERSION = "1.0.0";
     /** One request that returns USD, EUR, CHF and IRR. Replace if you get a better IRR source. */
     public static final String RATES_URL = "https://open.er-api.com/v6/latest/USD";

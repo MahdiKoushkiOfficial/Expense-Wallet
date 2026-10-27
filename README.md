@@ -167,7 +167,7 @@ The app supports **English, German, and Persian**, including Persian right-to-le
 - **JSON**
 - **AlarmManager**
 - **BroadcastReceiver**
-- **Material Design components**
+- **Custom UI components** (Material 3–inspired switch, pie chart)
 - **Open Sans**
 - **Vazirmatn**
 - **Material Symbols**
@@ -268,6 +268,7 @@ Expense-Wallet/
 │       │           ├── TabPage.java
 │       │           ├── HomePage.java
 │       │           ├── AccountsPage.java
+│       │           ├── AccountFormPage.java
 │       │           ├── AccountPage.java
 │       │           ├── TransactionPage.java
 │       │           ├── CategoriesPage.java
@@ -406,14 +407,4 @@ Exchange-rate data is retrieved from:
 
 ## License
 
-[FILL IN: License information]
-
----
-
-## Author
-
-**Mahdi Koushki**
-
-GitHub: https://github.com/MahdiKoushkiOfficial
-
-[FILL IN: LinkedIn profile]
+This project is created for learning and portfolio purposes.
