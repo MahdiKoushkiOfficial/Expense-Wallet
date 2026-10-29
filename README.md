@@ -8,6 +8,26 @@ The app supports **English, German, and Persian**, including Persian right-to-le
 
 ---
 
+## Download
+
+An installable APK is available on the [Releases](https://github.com/MahdiKoushkiOfficial/Expense-Wallet/releases/latest) page, so no build is required. It runs on Android 7.0 (API 24) or higher.
+
+> Android may ask you to allow installing apps from this source the first time.
+
+### Try it with demo data
+
+To see the app with realistic data instead of an empty start, import the demo backup:
+
+1. [Download the demo backup](https://github.com/MahdiKoushkiOfficial/Expense-Wallet/releases/latest/download/expense-wallet-demo-backup.json) to your phone.
+2. Open Expense Wallet and tap **Restore from backup** on the welcome screen, or go to **Settings → Data → Restore from backup**.
+3. Select the file and confirm.
+
+The demo contains two months of sample data (November and December 2026): three accounts, 48 transactions, planned payments, budgets, and savings goals.
+
+> **Note:** Restoring a backup replaces all existing data and skips the guided first-run experience described below, because the demo already contains transactions, budgets, and savings.
+
+---
+
 ## Screenshots
 
 <table>
@@ -32,7 +52,7 @@ The app supports **English, German, and Persian**, including Persian right-to-le
 ### Accounts
 - Create and manage multiple accounts
 - Support for bank accounts, credit cards, and cash
-- Custom currency and initial balance for each account
+- Initial balance for each account
 - Rename, delete, and reorder accounts
 - Automatic total balance calculation
 - Deleting an account also deletes its associated transactions
@@ -153,6 +173,32 @@ The app supports **English, German, and Persian**, including Persian right-to-le
 - Base currency
 - Month start day
 - Daily reminder settings
+
+---
+
+## First-Run Experience
+
+Expense Wallet guides new users through setup, then points them to the next useful step.
+
+### Setup in three steps
+
+1. **Welcome:** choose the language (English, German, or Persian) and optionally enter a name. Existing users can restore a backup here.
+2. **Base currency:** pick USD, EUR, CHF, or IRR and the calendar (Gregorian or Jalali).
+3. **Accounts:** choose which of credit card, bank account, and cash you use, then name them and set their initial balances.
+
+### Guided next steps on the Home screen
+
+Short hint cards appear on the Home screen depending on what the user has already done:
+
+| Situation | Hint |
+|---|---|
+| No transactions yet | Add your first transaction |
+| At least one transaction, no planned payments | Plan your recurring bills |
+| 3+ transactions, no budgets | Set a budget |
+| 3+ transactions, no savings | Start saving towards a goal |
+| 7+ transactions | Explore the Statistics |
+
+At most two hints are shown at a time. Tapping a hint opens the matching screen, and any hint can be dismissed.
 
 ---
 
@@ -298,6 +344,9 @@ Expense-Wallet/
 │           ├── values-de/
 │           ├── values-fa/
 │           └── xml/
+│
+├── demo/
+│   └── expense-wallet-demo-backup.json
 │
 ├── docs/
 │   └── screenshots/
