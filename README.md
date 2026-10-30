@@ -456,4 +456,4 @@ Exchange-rate data is retrieved from:
 
 ## License
 
-This project is created for learning and portfolio purposes.
+Contributions are welcome by prior agreement only. See [LICENSE](LICENSE).

@@ -1,0 +1,55 @@
+Expense Wallet - Personal Use License
+
+Copyright (c) 2026 [Mahdi Koushki]. All rights reserved.
+
+1. Permitted use
+   You may, free of charge:
+   (a) view the source code;
+   (b) build and run the application for your own personal, non-commercial use;
+   (c) review the project to evaluate the author's skills (for example, as part of a
+       hiring process).
+
+2. Restrictions
+   Without the prior written permission of the copyright holder, you may NOT:
+   (a) modify, adapt, translate, or create derivative works of the software;
+   (b) copy, redistribute, publish, sublicense, or sell the software or any part of it;
+   (c) use the software or any part of it for commercial purposes, or for the benefit
+       of any employer, business, or client;
+   (d) present the software, its source code, design, or screenshots as your own work,
+       including in a resume, CV, portfolio, job application, or any other
+       representation of your skills;
+   (e) remove or alter this notice.
+
+3. Contributions
+   (a) Contributions are welcome only with the prior written permission of the copyright
+       holder (for example, by being added as a collaborator or by an explicit written
+       agreement).
+   (b) A contribution is accepted only when the copyright holder merges it or confirms
+       acceptance in writing. If it is accepted, you grant the copyright holder a
+       perpetual, worldwide, royalty-free license to use, modify, and distribute it as
+       part of this project under the terms of this license. Your authorship remains
+       visible in the project's commit history.
+   (c) If a contribution is not accepted, or no permission was given, you may not keep,
+       use (including for personal use), or distribute your modified version, and must
+       delete it on request.
+   (d) Accepted contributions do not entitle you to present the project as your own work
+       or to claim ownership of the project as a whole.
+
+4. Third-party components
+   Fonts and icons included in this project are not covered by this license. They remain
+   under their own licenses (Open Sans and Vazirmatn: SIL Open Font License 1.1;
+   Material Symbols: Apache License 2.0).
+
+5. Ownership
+   All rights not expressly granted in this license are reserved by the copyright holder.
+
+6. Termination
+   This license ends automatically if you violate any of its terms.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Contact for permission requests: [[your email or GitHub profile URL](https://github.com/MahdiKoushkiOfficial)]
